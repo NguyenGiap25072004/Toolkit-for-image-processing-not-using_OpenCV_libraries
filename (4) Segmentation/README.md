@@ -5,12 +5,19 @@
 ## Cấu trúc thư mục
 
 image_segmentation_app/
+
 ├── main.py # Ứng dụng chính cho Segmentation
+
 ├── image_processing/ # Module xử lý ảnh
+
 │ ├── init.py
+
 │ ├── utils.py # Các hàm tiện ích (đọc, ghi ảnh, chuyển đổi,...)
+
 │ └── segmentation.py # Các hàm phân vùng ảnh
+
 ├── requirements.txt # Danh sách các thư viện cần thiết
+
 └── README.md # Hướng dẫn sử dụng (file này)
 
 ## Yêu cầu
