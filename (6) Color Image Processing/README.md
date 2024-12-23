@@ -12,12 +12,19 @@
 ## Cấu trúc thư mục
 
 color_image_processing_app/
+
 ├── main.py # Ứng dụng chính cho Color Image Processing
+
 ├── image_processing/ # Module xử lý ảnh
+
 │ ├── init.py
+
 │ ├── utils.py # Các hàm tiện ích (đọc, ghi ảnh, chuyển đổi,...)
+
 │ └── color_processing.py # Các hàm xử lý ảnh màu
+
 ├── requirements.txt # Danh sách các thư viện cần thiết
+
 └── README.md # Hướng dẫn sử dụng (file này)
 
 ## Yêu cầu
