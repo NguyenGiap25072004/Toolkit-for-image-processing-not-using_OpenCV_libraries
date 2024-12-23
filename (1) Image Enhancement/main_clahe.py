@@ -1,4 +1,4 @@
-# main_clahe.py (tiếp tục)
+# main_clahe.py 
 from image_processing.enhancement import clahe_no_opencv
 import tkinter as tk
 from tkinter import filedialog, messagebox, ttk
