@@ -5,13 +5,21 @@
 ## Cấu trúc thư mục
 
 image_restoration_app/
+
 ├── main_median_filter.py # Ứng dụng chính cho Median Filter
+
 ├── main_wiener_filter.py # Ứng dụng chính cho Wiener Filter
+
 ├── image_processing/ # Module xử lý ảnh
+
 │ ├── init.py
+
 │ ├── utils.py # Các hàm tiện ích (đọc, ghi ảnh, chuyển đổi,...)
+
 │ └── restoration.py # Các hàm khôi phục ảnh
+
 ├── requirements.txt # Danh sách các thư viện cần thiết
+
 └── README.
 
 ## Yêu cầu
