@@ -5,13 +5,21 @@
 ## Cấu trúc thư mục
 
 image_enhancement_app/
+
 ├── main_histogram_equalization.py  # Ứng dụng chính cho Histogram Equalization
+
 ├── main_clahe.py                 # Ứng dụng chính cho CLAHE
+
 ├── image_processing/             # Module xử lý ảnh (không dùng OpenCV)
+
 │   ├── init.py
+
 │   ├── utils.py                  # Các hàm tiện ích (đọc, ghi ảnh, chuyển đổi,...)
+
 │   └── enhancement.py            # Các hàm tăng cường chất lượng ảnh
+
 ├── requirements.txt             # Danh sách các thư viện cần thiết (có thể chỉ có Pillow)
+
 └── README.md                    # Hướng dẫn sử dụng (file này)
 
 ## Yêu cầu
