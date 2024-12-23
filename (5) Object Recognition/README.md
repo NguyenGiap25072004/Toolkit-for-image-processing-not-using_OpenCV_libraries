@@ -5,14 +5,23 @@
 ## Cấu trúc thư mục
 
 object_recognition_app/
+
 ├── main.py # Ứng dụng chính cho Object Recognition
+
 ├── image_processing/ # Module xử lý ảnh
+
 │ ├── init.py
+
 │ ├── utils.py # Các hàm tiện ích (đọc, ghi ảnh, chuyển đổi,...)
+
 │ └── recognition.py # Các hàm nhận dạng đối tượng
+
 ├── assets/ # Thư mục chứa các tệp Haar Cascade XML
+
 │ └── haarcascade_frontalface_default.xml
+
 ├── requirements.txt # Danh sách các thư viện cần thiết
+
 └── README.md # Hướng dẫn sử dụng (file này)
 
 ## Yêu cầu
