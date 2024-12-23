@@ -1,4 +1,4 @@
-# main_closing.py (tiếp tục)
+# main_closing.py
 from image_processing.morphology import closing_no_opencv
 import tkinter as tk
 from tkinter import filedialog, messagebox, ttk
