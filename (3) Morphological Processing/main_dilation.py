@@ -1,4 +1,4 @@
-# main_dilation.py (tiếp tục)
+# main_dilation.py 
 from image_processing.morphology import dilation_no_opencv
 import tkinter as tk
 from tkinter import filedialog, messagebox, ttk
