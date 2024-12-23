@@ -1,4 +1,4 @@
-# main_wiener_filter.py (tiếp tục)
+# main_wiener_filter.py 
 from image_processing.restoration import wiener_filter_no_opencv
 import tkinter as tk
 from tkinter import filedialog, messagebox, ttk
