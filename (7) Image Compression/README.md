@@ -10,12 +10,19 @@
 ## Cấu trúc thư mục
 
 image_compression_app/
+
 ├── main.py # Ứng dụng chính cho Image Compression
+
 ├── image_processing/ # Module xử lý ảnh
+
 │ ├── init.py
+
 │ ├── utils.py # Các hàm tiện ích (đọc, ghi ảnh, chuyển đổi,...)
+
 │ └── compression.py # Các hàm nén ảnh
+
 ├── requirements.txt # Danh sách các thư viện cần thiết
+
 └── README.md # Hướng dẫn sử dụng (file này)
 
 ## Yêu cầu
