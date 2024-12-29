@@ -73,7 +73,7 @@ Mỗi ứng dụng có một file `README.md` riêng trong thư mục của nó.
 ## Ghi chú
 
 *   Các ứng dụng này **không sử dụng OpenCV** cho các thuật toán xử lý ảnh chính (ngoại trừ `PIL/Pillow` cho việc đọc/ghi ảnh).
-*   Một số chức năng nâng cao **chưa được triển khai** (Wiener Filter, Canny Edge Detection, Haar Cascade, ...). Đây là những phần phức tạp, đòi hỏi kiến thức chuyên sâu về xử lý ảnh và toán học.
+*   Một số chức năng nâng cao **chưa được triển khai** (Wiener Filter, Canny Edge Detection, Haar Cascade, ...). 
 *   Phiên bản hiện tại vẫn sử dụng **Pillow (PIL)** để đọc và ghi ảnh. Bạn có thể thay thế bằng các hàm tự viết để loại bỏ hoàn toàn phụ thuộc vào thư viện bên ngoài.
 
 ## Tác giả
