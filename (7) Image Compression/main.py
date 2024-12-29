@@ -24,7 +24,7 @@ class ImageCompressionApp:
     def create_widgets(self):
         # Style for ttk widgets
         style = ttk.Style()
-        style.configure("TButton", padding=6, relief="flat", background="#4CAF50", foreground="white")
+        style.configure("TButton", padding=6, relief="flat", background="#4CAF50", foreground="black")
         style.configure("TLabel", background="#f0f0f0", font=("Arial", 11))
         style.configure("TEntry", fieldbackground="#f0f0f0", font=("Arial", 11))
         style.configure("TRadiobutton", background="#f0f0f0", font=("Arial", 11))
